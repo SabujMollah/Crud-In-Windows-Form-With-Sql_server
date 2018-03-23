@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script src="http://code.jquery.com/jquery-1.11.1.js"></script>
+</head>
+<body>
+    <div id="mapholder" style="height:500px;width:500px;"></div>
+    <script>
+        function getlock() {
+            if ('geolocation' in navigator) {
+                navigator.geolocation.getCurrentPosition(showposition,showerror)
+            }
+        }
+
+            function showposition(pos) {
+                var mapoption = {
+                    center: new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude),
+                    zoom:20,
+                }
+
+                var map = new google.maps.Map(document.getElementById('mapholder'), mapoption)
+
+                var info = new google.maps.InfoWindow({
+                    position: new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude),
+                    map: map,
+                    content: "your location </br> latitude :" + pos.coords.latitude + " </br> longitude : " + pos.coords.longitude
+
+
+                })
+            }
+
+
+            function showerror(e) {
+                console.log(e)
+            }
+
+            addEventListener('load', getlock, false)
+        
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHOCNX0133LAFFnuTdBe6Oo2BtE25Cejs&callback=showposition"></script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+E:\Desktop\proj\project\bin\Debug\project.exe.config
+E:\Desktop\proj\project\bin\Debug\project.exe
+E:\Desktop\proj\project\bin\Debug\project.pdb
+E:\Desktop\proj\project\obj\Debug\project.Form1.resources
+E:\Desktop\proj\project\obj\Debug\project.Properties.Resources.resources
+E:\Desktop\proj\project\obj\Debug\project.csproj.GenerateResource.Cache
+E:\Desktop\proj\project\obj\Debug\project.exe
+E:\Desktop\proj\project\obj\Debug\project.pdb
+E:\Desktop\proj\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+G:\proj\project\bin\Debug\project.exe.config
+G:\proj\project\obj\Debug\project.exe
+G:\proj\project\obj\Debug\project.pdb
+G:\proj\project\bin\Debug\project.exe
+G:\proj\project\bin\Debug\project.pdb
+G:\proj\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+G:\proj\project\obj\Debug\project.Form1.resources
+G:\proj\project\obj\Debug\project.Properties.Resources.resources
+G:\proj\project\obj\Debug\project.csproj.GenerateResource.Cache
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\bin\Debug\project.exe.config
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\bin\Debug\project.exe
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\bin\Debug\project.pdb
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.Form1.resources
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.Properties.Resources.resources
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.csproj.GenerateResource.Cache
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\RdlCompile.cache
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\RdlCompile.compiled
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.exe
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.pdb
+H:\Local Disk\IDB\Core\r-33\Module_5\Projects\sabuj\proj\project\obj\Debug\project.Form2.resources
+D:\proj\project\bin\Debug\project.exe.config
+D:\proj\project\bin\Debug\project.exe
+D:\proj\project\bin\Debug\project.pdb
+D:\proj\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\proj\project\obj\Debug\project.Form1.resources
+D:\proj\project\obj\Debug\project.Form2.resources
+D:\proj\project\obj\Debug\project.Properties.Resources.resources
+D:\proj\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\proj\project\obj\Debug\RdlCompile.cache
+D:\proj\project\obj\Debug\RdlCompile.compiled
+D:\proj\project\obj\Debug\project.exe
+D:\proj\project\obj\Debug\project.pdb
+F:\Education\6th Exam\proj\project\bin\Debug\project.exe.config
+F:\Education\6th Exam\proj\project\obj\Debug\project.exe
+F:\Education\6th Exam\proj\project\obj\Debug\project.pdb
+F:\Education\6th Exam\proj\project\bin\Debug\project.exe
+F:\Education\6th Exam\proj\project\bin\Debug\project.pdb
+F:\Education\6th Exam\proj\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+F:\Education\6th Exam\proj\project\obj\Debug\project.Form1.resources
+F:\Education\6th Exam\proj\project\obj\Debug\project.Form2.resources
+F:\Education\6th Exam\proj\project\obj\Debug\project.Properties.Resources.resources
+F:\Education\6th Exam\proj\project\obj\Debug\project.csproj.GenerateResource.Cache
+F:\Education\6th Exam\proj\project\obj\Debug\RdlCompile.cache
+F:\Education\6th Exam\proj\project\obj\Debug\RdlCompile.compiled
+G:\proj\project\obj\Debug\project.Form2.resources
+G:\proj\project\obj\Debug\RdlCompile.cache
+G:\proj\project\obj\Debug\RdlCompile.compiled
+C:\Users\Lab3_5\Desktop\proj\project\bin\Debug\project.exe.config
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.exe
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.pdb
+C:\Users\Lab3_5\Desktop\proj\project\bin\Debug\project.exe
+C:\Users\Lab3_5\Desktop\proj\project\bin\Debug\project.pdb
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.Form1.resources
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.Form2.resources
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\project.csproj.GenerateResource.Cache
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\RdlCompile.cache
+C:\Users\Lab3_5\Desktop\proj\project\obj\Debug\RdlCompile.compiled
+D:\1228853\project\bin\Debug\project.exe.config
+D:\1228853\project\obj\Debug\project.exe
+D:\1228853\project\obj\Debug\project.pdb
+D:\1228853\project\bin\Debug\project.exe
+D:\1228853\project\bin\Debug\project.pdb
+D:\1228853\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+D:\1228853\project\obj\Debug\project.Form1.resources
+D:\1228853\project\obj\Debug\project.Form2.resources
+D:\1228853\project\obj\Debug\project.Properties.Resources.resources
+D:\1228853\project\obj\Debug\project.csproj.GenerateResource.Cache
+D:\1228853\project\obj\Debug\RdlCompile.cache
+D:\1228853\project\obj\Debug\RdlCompile.compiled
+F:\Education\MyProject Full1\1228853\project\bin\Debug\project.exe.config
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.exe
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.pdb
+F:\Education\MyProject Full1\1228853\project\bin\Debug\project.exe
+F:\Education\MyProject Full1\1228853\project\bin\Debug\project.pdb
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.csprojResolveAssemblyReference.cache
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.Form1.resources
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.Form2.resources
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.Properties.Resources.resources
+F:\Education\MyProject Full1\1228853\project\obj\Debug\project.csproj.GenerateResource.Cache
+F:\Education\MyProject Full1\1228853\project\obj\Debug\RdlCompile.cache
+F:\Education\MyProject Full1\1228853\project\obj\Debug\RdlCompile.compiled

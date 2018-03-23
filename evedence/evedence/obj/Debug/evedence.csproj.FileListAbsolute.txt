@@ -1,0 +1,6 @@
+C:\Users\Lab3_5\Desktop\1228853\evedence\evedence\bin\evedence.dll.config
+C:\Users\Lab3_5\Desktop\1228853\evedence\evedence\bin\evedence.dll
+C:\Users\Lab3_5\Desktop\1228853\evedence\evedence\bin\evedence.pdb
+C:\Users\Lab3_5\Desktop\1228853\evedence\evedence\obj\Debug\evedence.csprojResolveAssemblyReference.cache
+C:\Users\Lab3_5\Desktop\1228853\evedence\evedence\obj\Debug\evedence.dll
+C:\Users\Lab3_5\Desktop\1228853\evedence\evedence\obj\Debug\evedence.pdb
